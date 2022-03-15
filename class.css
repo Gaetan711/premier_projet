@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+}
+
+
+
+*{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    list-style: none;
+
+}
+
+#strongbold{
+    font-size: large gold;
+}
+
+.table{
+    
+    border: 2px solid blue;
+    border-radius: 1rem;
+    border-collapse:collapse;
+ width:90%;
+ }
